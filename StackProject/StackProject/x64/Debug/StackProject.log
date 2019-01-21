@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\jon\documents\visual studio 2017\projects\stackproject\stackproject\main.cpp(150): warning C4715: 'evaluate': not all control paths return a value
+  StackProject.vcxproj -> C:\Users\Jon\Documents\Visual Studio 2017\Projects\StackProject\x64\Debug\StackProject.exe
